@@ -1,8 +1,8 @@
-﻿Reference Links:
+﻿
 
+Reference Links:
 
 For Mongodb Curd Operations:
-
 $ https://www.geeksforgeeks.org/mongodb-python-insert-update-data/ 
 
 $ https://pymongo.readthedocs.io/en/stable/tutorial.html 
@@ -12,9 +12,7 @@ $ https://stackoverflow.com/questions/62776412/connect-to-azure-cosmos-dbs-api-f
 $ https://github.com/Azure-Samples?q=&type=&language=jupyter+notebook 
 
 
-
 For SQL API:
-
 $ https://docs.microsoft.com/en-us/azure/cosmos-db/create-sql-api-python 
 
 $ https://cosmosdb.github.io/labs/java/technical_deep_dive/04-authoring_stored_procedures.html 
@@ -26,9 +24,6 @@ $ https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-use-stored-procedures-
 $ https://docs.microsoft.com/en-us/azure/cosmos-db/how-to-write-stored-procedures-triggers-udfs#triggers 
 
 
-
-
-
 Import And Export Data In Cosmosdb:
+$ https://alexdrenea.com/2020/04/27/using-a-data-factory-to-load-data-into-cosmosdb-without-code/
 
-$ https://alexdrenea.com/2020/04/27/using-a-data-factory-to-load-data-into-cosmosdb-without-code/ 
